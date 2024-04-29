@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/pink"
+    tools:context=".fragmento4">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:id="@+id/imgGallina"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/cat"
+        android:adjustViewBounds="true"
+        android:maxHeight="150dp"
+        android:layout_marginTop="2dp"
+        android:layout_gravity="center"
+        android:layout_below="@id/fragment4_text"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="190dp"
+        android:layout_gravity="center"
+        android:id="@+id/fragment4_text"
+        android:text="@string/txt_fragment4" />
+
+</FrameLayout>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">estudio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="op1">Home 🐐</string>
+    <string name="op2">Login 📸</string>
+    <string name="op3">About 🧀</string>
+    <string name="op4">Happy 😁</string>
+
+    <string name="txt_question">Ingresa cualquier texto!</string>
+    <string name="txt_answer"></string>
+    <string name="txt_fragment1">Welcome, fragmento 1</string>
+    <string name="txt_fragment2">Soy un fragmento 2 uwu</string>
+    <string name="txt_fragment3">Soy un fragmento 3</string>
+    <string name="txt_fragment4">Soy un fragmento 4</string>
+    <string name="txt_fragment5">Soy un fragmento 5</string>
+    <string name="txt_fragment6">Soy un fragmento 6</string>
+</resources>

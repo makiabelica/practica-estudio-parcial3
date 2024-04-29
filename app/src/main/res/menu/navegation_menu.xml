@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fragmento3"
+        android:icon="@drawable/home"
+        android:title="@string/op1"
+        />
+    <item
+        android:id="@+id/fragmento4"
+        android:icon="@drawable/baseline_login_24"
+        android:title="@string/op2"
+        />
+    <item
+        android:id="@+id/fragmento5"
+        android:icon="@drawable/about"
+        android:title="@string/op3"
+        />
+    <item
+        android:id="@+id/fragmento6"
+        android:icon="@drawable/android"
+        android:title="@string/op4"
+        />
+</menu>
